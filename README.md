@@ -1,2 +1,2 @@
-# HooksReact
+# EventHandlingInReact
 Created with CodeSandbox
